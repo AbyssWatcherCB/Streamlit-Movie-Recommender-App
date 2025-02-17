@@ -1,0 +1,17 @@
+- app.py
+- dataset.csv
+- Main.ipynb
+- main.py
+- movies_list.pkl
+- README.md
+- requirements.txt
+- similarity_parts
+  - similarity_part_0.pkl
+  - similarity_part_1.pkl
+  - similarity_part_2.pkl
+  - similarity_part_3.pkl
+  - similarity_part_4.pkl
+  - similarity_part_5.pkl
+  - similarity_part_6.pkl
+  - similarity_part_7.pkl
+- split_similarity.py
